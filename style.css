@@ -1,0 +1,19 @@
+body {
+    background-color: #42A5F5;
+    text-align: center;
+}
+
+#coding {
+    width:10%;
+    border: 5px;
+    border-bottom-color: aqua;
+    border-left-color: antiquewhite;
+    border-right-color: aquamarine;
+    border-top-color:cyan;
+}
+.line {
+    height: 5px;
+    background-color:darkorchid;
+    width: 75px;
+    margin: 8px auto;
+}
